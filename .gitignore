@@ -18,3 +18,6 @@ site-content
 .project
 .externalToolBuilders
 .checkstyle
+
+# GE files
+.mvn/.gradle-enterprise/gradle-enterprise-workspace-id
